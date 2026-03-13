@@ -1,0 +1,14 @@
+{
+  "appId": "com.tacticalduel.app",
+  "appName": "Tactical Duel",
+  "webDir": "www",
+  "android": {
+    "buildOptions": {
+      "keystorePath": null,
+      "keystoreAlias": null
+    }
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
